@@ -2,6 +2,7 @@
 > This README and all referenced documentation is under rapid development by an obsessive lead developer with ADHD, and thus subject to equally rapid change. :-)
 
 ## Table of contents
+- [Table of contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Development guidelines](#development-guidelines)
 - [Useful links](#useful-links)
@@ -10,7 +11,7 @@
 
 This is the main project repository of ***"Perennial"***, a story-driven adventure game with light RPG and roguelite elements.
 
-For a detailed description about the goals of the project, we provide an internal documentation repository for developers. 
+For a detailed description about the goals of the project, we provide an [internal documentation](https://github.com/mirakardia/perennial-docs) repository for developers. 
 
 ## Development guidelines
 
